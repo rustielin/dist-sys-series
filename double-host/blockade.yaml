@@ -1,0 +1,6 @@
+containers:
+    host1:
+        image: dist-demo:latest
+
+    host2:
+        image: dist-demo:latest
